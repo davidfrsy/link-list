@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+:root {
+  --primary-glow: rgba(168, 85, 247, 0.8); /* Ungu */
+  --secondary-glow: rgba(52, 211, 153, 0.8); /* Hijau */
+  --background-dark: #0d0c22;
+  --background-light: #1f1e3a;
+  --text-light: #e0e0e0;
+  --text-dark: #a0a0a0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: var(--background-dark);
+  background-image: radial-gradient(circle, var(--background-light) 0%, var(--background-dark) 70%);
+  color: var(--text-light);
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 2rem 1rem;
+  box-sizing: border-box;
+}
