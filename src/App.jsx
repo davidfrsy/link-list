@@ -14,7 +14,7 @@ const linksData = [
     icon: <CgNotes />,
     title: 'Mission Log',
     subtitle: 'Curriculum Vitae',
-    href: 'https://cv-davidfrsy.netlify.app/',
+    href: 'https://davidfr.my.id/',
   },
   {
     icon: <IoSparkles />,
