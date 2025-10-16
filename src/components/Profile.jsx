@@ -22,7 +22,7 @@ const Profile = () => {
             <a href="https://tiktok.com/davidfrsy" target="_blank" rel="noopener noreferrer">
             <FaTiktok />
             </a>
-            <a href="https://linkedin/in/mdavidfrsy" target="_blank" rel="noopener noreferrer">
+            <a href="https://linkedin/in/davidfrsy" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
             </a>
         </div>
